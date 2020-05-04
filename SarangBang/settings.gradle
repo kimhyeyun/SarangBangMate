@@ -1,0 +1,2 @@
+rootProject.name='SarangBang'
+include ':app'
